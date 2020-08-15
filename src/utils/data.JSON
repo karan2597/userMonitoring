@@ -1,0 +1,138 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"startTime": 1580563980,
+					"endTime": 1580565240
+				},
+				{
+					"startTime": 1583061060,
+					"endTime": 1583071200
+				},
+				{
+					"startTime": 1584379980,
+					"endTime": 1584388920
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"startTime": 1580563980,
+					"endTime": 1580565240
+				},
+				{
+					"startTime": 1583061060,
+					"endTime": 1583071200
+				},
+				{
+					"startTime": 1584379980,
+					"endTime": 1584388920
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA5",
+			"name": "Maxwell Roberts",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"startTime": 1592618421,
+					"endTime": 1592625621
+				},
+				{
+					"startTime": 1592661621,
+					"endTime": 1592668821
+				},
+				{
+					"startTime": 1597496421,
+					"endTime": 1597500021
+				}
+			]
+		},
+		{
+			"id": "W07BNVPA9",
+			"name": "Alex Donald",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"startTime": 1584023181,
+					"endTime": 1584023361
+				},
+				{
+					"startTime": 1584367221,
+					"endTime": 1584368781
+				},
+				{
+					"startTime": 1584532821,
+					"endTime": 1584540021
+				}
+			]
+		},
+		{
+			"id": "W07DFGVPA11",
+			"name": "Robert Lewandowski",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"startTime": 1578789021,
+					"endTime": 1578789621
+				},
+				{
+					"startTime": 1578825621,
+					"endTime": 1578836421
+				},
+				{
+					"startTime": 1582638021,
+					"endTime": 1582639221
+				},
+				{
+					"startTime": 1585144821,
+					"endTime": 1585152021
+				},
+				{
+					"startTime": 1587830421,
+					"endTime": 1587834021
+				},
+				{
+					"startTime": 1597453221,
+					"endTime": 1597467621
+				}
+			]
+		},
+		{
+			"id": "W07DXCVPA07",
+			"name": "Cristiano Ronalod",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"startTime": 1587099621,
+					"endTime": 1587104781
+				},
+				{
+					"startTime": 1587284781,
+					"endTime": 1587302781
+				}
+			]
+		},
+		{
+			"id": "W07VZCVPLM10",
+			"name": "Lionel Messi",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"startTime": 1577885181,
+					"endTime": 1577888781
+				},
+				{
+					"startTime": 1577975181,
+					"endTime": 1577979981
+				},
+				{
+					"startTime": 1597453221,
+					"endTime": 1597467621
+				}
+			]
+		}
+	]
+}
